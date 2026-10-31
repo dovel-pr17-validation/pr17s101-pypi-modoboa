@@ -220,10 +220,10 @@
   resolved "https://registry.yarnpkg.com/@module-federation/third-party-dts-extractor/-/third-party-dts-extractor-2.9.2.tgz#d7c3e071a4fa1e12f07d1a34348ce407fcc92bd2"
   integrity sha512-FKJVGx+/jIe16RfmwoyIDVMPAttIFJv6AJCLkKf05IRNvI3RJFqQ1tLP1YjcfGuumCbYuWGa4QKnMla7YjVpqg==
 
-"@module-federation/vite@^1.20.1":
-  version "1.23.3"
-  resolved "https://registry.yarnpkg.com/@module-federation/vite/-/vite-1.23.3.tgz#d2dd7c4e6142a458e9be7d6b8a083ca42c892d28"
-  integrity sha512-XYW7ePFmrSIIvQR4PBHBrujRlFI7TBP+g0QZkw9AsqW/A/x/tT97ypWe+osX4YCkCy57/48AQ0B/3bkl/wZXXQ==
+"@module-federation/vite@^1.23.7":
+  version "1.23.7"
+  resolved "https://registry.yarnpkg.com/@module-federation/vite/-/vite-1.23.7.tgz#dcd4b030cfb6db03f7bcef6cee2ca74ce8cd97be"
+  integrity sha512-b60aujpV0uleW7uOqtx+jXxZk1cdydidb7ixPof/PwaL0r17mQCA1V11p48vyiP+FB94azOZRNu+LiflPpAy8w==
   dependencies:
     "@module-federation/dts-plugin" "2.9.2"
     "@module-federation/runtime" "2.9.2"
